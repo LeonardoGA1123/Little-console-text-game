@@ -51,7 +51,7 @@ int explorar(){
     cout << "\nWhat you will do?";
 
     do{
-        cout << "\nOptions:  1.Attack  2.Run  3.Make Poo" << endl; cin >> option;
+        cout << "\nOptions:  1.Attack  2.Run  3.Touch the slime" << endl; cin >> option;
     }while(option < 1 || option > 3);
 
     if(option == 1){
