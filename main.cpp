@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 
-using namespace std;
+using namespace std; // Mira a ver si te sale esta pull
 
 int hp = 100, atk = 12;
 string nombre;
