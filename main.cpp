@@ -15,7 +15,6 @@ int main()
     cout << "Welcome to the Game" << endl;
     cout << "Introduce your name: "; cin >> nombre; cout << endl;
 
-
     while(option != 4){
     do{
 
